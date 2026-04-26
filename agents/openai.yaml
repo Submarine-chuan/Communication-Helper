@@ -1,0 +1,7 @@
+interface:
+  display_name: "Communication Rob"
+  short_description: "为工作和关系敏感场景生成得体自然且低负担的沟通表达"
+  default_prompt: "Use $communication-rob to infer the communication scene, ask the user to choose by number, then generate 2-3 tactful versions."
+
+policy:
+  allow_implicit_invocation: true
